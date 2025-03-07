@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 
-df = pd.read_csv("C:\\Users\\Summe\\Caradvertisement\\vehicles_us.csv")
+df = pd.read_csv("vehicles_us.csv")
 
 
 # Replace NaN values in specified columns
